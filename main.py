@@ -8,5 +8,5 @@ if st.button("문장 생성"):
 if menu == "엄마는 외계인":
   st.write("your mom is alien")
 if menu == "엄마는 외계인":
-  menu = st.selectbox("좋아하는 맛을 선택해 주세요: ", ["아몬드봉봉", "엄마는 외계인 n+1"])
+  menu = st.selectbox("좋아하는 맛을 선택해 주세요: ", ["아몬드봉봉", "엄마는 외계인 m"])
   
