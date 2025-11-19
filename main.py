@@ -6,4 +6,4 @@ menu = st.selectbox("좋아하는 맛을 선택해 주세요: ", ["아몬드봉�
 if st.button("문장 생성"):
   st.write(name+"님 안녕하세요. 좋아하는 맛은 "+ menu + "이군요!")
 if menu == "엄마는 외계인":
-  st.write(your mom is alien)
+  st.write("your mom is alien")
